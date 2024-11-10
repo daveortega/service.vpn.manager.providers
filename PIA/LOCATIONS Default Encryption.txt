@@ -38,6 +38,8 @@ CA Vancouver (UDP),ca-vancouver.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.
 CA Vancouver (TCP),ca-vancouver.privacy.network,tcp,502,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
 China (UDP),china.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
 China (TCP),china.privacy.network,tcp,502,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+Colombia (UDP),bogota.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
+Colombia (TCP),bogota.privacy.network,tcp,502,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
 Cyprus (UDP),cyprus.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
 Cyprus (TCP),cyprus.privacy.network,tcp,502,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
 Czech Republic (UDP),czech.privacy.network,udp,1198,#REMOVE=1 #CERT=ca.rsa.2048.crt #CRLVERIFY=crl.rsa.2048.pem
